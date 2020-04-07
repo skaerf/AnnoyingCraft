@@ -1,0 +1,8 @@
+name: AnnoyingCraft
+version: 1.0
+main: xyz.opnetwork.annoyingcraft.Main
+author: skaerf, Mnju
+description: Minecraft's most annoying gamemode.
+commands:
+
+   
